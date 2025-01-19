@@ -26,6 +26,11 @@ render.experimental.xml
 *.jks
 *.keystore
 
+# General
+.DS_Store
+.externalNativeBuild
+.kotlin/
+
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
